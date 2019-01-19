@@ -6,7 +6,10 @@ namespace Task1
     {
         static void Main(string[] args)
         {
+            //Good job!
+
             //setup
+            
             Single mileage = 0;
             Single miles = 0;
             Single gallons = 0;
